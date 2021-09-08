@@ -36,7 +36,7 @@ const App = () => {
             <button name="/" className="highlight" onClick={handleClick}>&divide;</button>
             <button name="7" onClick={handleClick}>7</button>
             <button name="8" onClick={handleClick}>8</button>
-            <button name="8"onClick={handleClick}>9</button>
+            <button name="9"onClick={handleClick}>9</button>
             <button name="*"className="highlight" onClick={handleClick}>&times;</button>
             <button name="4"onClick={handleClick}>4</button>
             <button name="5"onClick={handleClick}>5</button>
